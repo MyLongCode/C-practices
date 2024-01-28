@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Tickets.dll" fullname="C:/Users/user/OneDrive/Desktop/Прога C#/Уроки/Tickets/bin/Debug/net6.0/Tickets.dll" testcasecount="4" result="Passed" start-time="2023-08-22T06:18:39.7902981Z" end-time="2023-08-22T06:18:39.8221290Z" duration="0.031808" total="4" passed="4" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="4" random-seed="871623828">
+  <command-line><![CDATA["C:\Users\user\OneDrive\Desktop\Прога C#\Уроки\Tickets\bin\Debug\net6.0\Tickets.dll"]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1005" name="Tickets.dll" fullname="C:/Users/user/OneDrive/Desktop/Прога C#/Уроки/Tickets/bin/Debug/net6.0/Tickets.dll" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-08-22T06:18:39.7902981Z" end-time="2023-08-22T06:18:39.8221290Z" duration="0.031808" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+    <environment framework-version="3.13.3.0" clr-version="6.0.8" os-version="Microsoft Windows 10.0.19044" platform="Win32NT" cwd="C:\Users\user\OneDrive\Desktop\Прога C#\Уроки\Tickets\bin\Debug\net6.0" machine-name="LAPTOP-8TVMJ0TV" user="user" user-domain="LAPTOP-8TVMJ0TV" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\user\OneDrive\Desktop\Прога C#\Уроки\Tickets\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="12" />
+    </settings>
+    <properties>
+      <property name="_PID" value="12120" />
+      <property name="_APPDOMAIN" value="Tickets" />
+    </properties>
+    <test-suite type="TestSuite" id="1006" name="Tickets" fullname="Tickets" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-08-22T06:18:39.7936583Z" end-time="2023-08-22T06:18:39.8221223Z" duration="0.028463" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+      <test-suite type="TestFixture" id="1000" name="TicketsTask_should" fullname="Tickets.TicketsTask_should" classname="Tickets.TicketsTask_should" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-08-22T06:18:39.7946686Z" end-time="2023-08-22T06:18:39.8219299Z" duration="0.027261" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="4">
+        <test-case id="1001" name="Test1" fullname="Tickets.TicketsTask_should.Test1" methodname="Test1" classname="Tickets.TicketsTask_should" runstate="Runnable" seed="983244042" result="Passed" start-time="2023-08-22T06:18:39.7962855Z" end-time="2023-08-22T06:18:39.8113179Z" duration="0.015088" asserts="1" />
+        <test-case id="1002" name="Test2" fullname="Tickets.TicketsTask_should.Test2" methodname="Test2" classname="Tickets.TicketsTask_should" runstate="Runnable" seed="774201241" result="Passed" start-time="2023-08-22T06:18:39.8125043Z" end-time="2023-08-22T06:18:39.8126500Z" duration="0.000145" asserts="1" />
+        <test-case id="1003" name="Test6" fullname="Tickets.TicketsTask_should.Test6" methodname="Test6" classname="Tickets.TicketsTask_should" runstate="Runnable" seed="1561648387" result="Passed" start-time="2023-08-22T06:18:39.8126651Z" end-time="2023-08-22T06:18:39.8168526Z" duration="0.004188" asserts="1" />
+        <test-case id="1004" name="Test7" fullname="Tickets.TicketsTask_should.Test7" methodname="Test7" classname="Tickets.TicketsTask_should" runstate="Runnable" seed="1106324709" result="Passed" start-time="2023-08-22T06:18:39.8168780Z" end-time="2023-08-22T06:18:39.8211516Z" duration="0.004274" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

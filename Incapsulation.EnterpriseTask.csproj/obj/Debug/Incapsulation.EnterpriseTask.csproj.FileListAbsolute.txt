@@ -1,0 +1,9 @@
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.dll.config
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.dll
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.EnterpriseTask.csproj\bin\Debug\Incapsulation.Enterprise.pdb
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.EnterpriseTask.csproj\bin\Debug\nunit.framework.dll
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.EnterpriseTask.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.Enterprise.dll
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.EnterpriseTask.csproj\obj\Debug\Incapsulation.Enterprise.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe.config
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.exe
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\bin\Debug\Incapsulation.Weights.pdb
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\bin\Debug\nunit.framework.dll
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\bin\Debug\nunitlite.dll
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.exe
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Weights.csproj\obj\Debug\Incapsulation.Weights.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\bin\Debug\ReportMaker.cs
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.exe.config
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.exe
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\bin\Debug\Incapsulation.Failures.pdb
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\bin\Debug\nunit.framework.dll
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\bin\Debug\nunitlite.dll
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.exe
+C:\Users\user\OneDrive\Desktop\Прога C#\Самостоятельно\Incapsulation.Failures.csproj\obj\Debug\Incapsulation.Failures.pdb
