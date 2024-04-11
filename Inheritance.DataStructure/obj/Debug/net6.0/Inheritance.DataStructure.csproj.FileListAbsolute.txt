@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Desktop\Прога C#\C# practices\C# practices\Inheritance.DataStructure\obj\Debug\net6.0\Inheritance.DataStructure.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\C# practices\C# practices\Inheritance.DataStructure\obj\Debug\net6.0\Inheritance.DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Прога C#\C# practices\C# practices\Inheritance.DataStructure\obj\Debug\net6.0\Inheritance.DataStructure.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Прога C#\C# practices\C# practices\Inheritance.DataStructure\obj\Debug\net6.0\Inheritance.DataStructure.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Прога C#\C# practices\C# practices\Inheritance.DataStructure\obj\Debug\net6.0\Inheritance.DataStructure.csproj.CoreCompileInputs.cache

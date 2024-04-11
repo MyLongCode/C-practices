@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Inheritance.DataStructure",
+    "\\Inheritance.DataStructure\\bin\\Debug",
+    "\\Inheritance.DataStructure\\bin\\Debug\\net6.0",
+    "\\Inheritance.DataStructure\\bin\\Release",
+    "\\Inheritance.DataStructure\\bin\\Release\\net6.0",
+    "\\Inheritance.DataStructure\\obj\\Debug",
+    "\\Inheritance.DataStructure\\obj\\Release"
   ],
+  "SelectedNode": "\\Inheritance.DataStructure",
   "PreviewInSolutionExplorer": false
 }
